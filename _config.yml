@@ -1,10 +1,10 @@
-name: White Paper
+name: Chips Quesadillas and More
 markdown: redcarpet
 pygments: true
-#url: http://vinitkumar.me/white-paper
+url: http://cwebber314.github.io
 paginate: 8
-description:     Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
+description: Chips notes
+intro: I write things here so I don't forget them
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
