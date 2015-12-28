@@ -15,9 +15,9 @@ error message at all depending on how you are using PSSE.
 
 The trivial case to reproduce:
 
-    1. Start PSSE
-    2. In the Python command line enter ``float('NaN')``
-    3. Result: PSSE Crashes
+  1. Start PSSE
+  2. In the Python command line enter ``float('NaN')``
+  3. Result: PSSE Crashes
 
 This issue can also cause crashes deep inside 3rd party libraries which are 
 hard to debug.  I first saw this issue in pandas and pytables.
