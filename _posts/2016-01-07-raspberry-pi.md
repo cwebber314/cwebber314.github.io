@@ -64,7 +64,7 @@ is to open chromium automatically on login:
 
 We can use the chromium settings to open a page on startup.
 
-We can also use the `--kiosk`` option to start chromium in full-screen mode.
+We can also use the `--kiosk` option to start chromium in full-screen mode.
 Or use the chromium command line options in the `autostart` file.  Change the
 last line to:
 
